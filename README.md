@@ -1,6 +1,6 @@
 # RetailEdge Canada — Power BI Analytics
 
-![Dashboard Preview](page1-executive-summary.png)
+![Dashboard Preview]("Executive_Summary.png")
 
 ## Project Overview
 End-to-end Power BI analytics solution for a national retail chain 
